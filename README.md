@@ -1,6 +1,7 @@
 # git-cc
 
 Simple bridge between base Clearcase or UCM and Git.
+
 简单的桥梁在CC 或者UCM和Git之间
 
 ## Warning，警告
